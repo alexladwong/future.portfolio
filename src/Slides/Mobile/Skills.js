@@ -77,14 +77,14 @@ class Skills extends Component {
   render() {
     return (
       <Container>
-        <SkillsTitle>SKILLS</SkillsTitle>
+        <SkillsTitle>MY SKILLS</SkillsTitle>
         <SkillsList>
           <div>
             Product Design
             <br />
             Design system
             <br />
-            Information architect
+            Network architect
             <br />
             <br />
             HTML & CSS
@@ -103,11 +103,11 @@ class Skills extends Component {
             Concept development
             <br />
             <br />
-            Figma
+            Python
             <br />
-            Sketch
+            Django
             <br />
-            Principle
+            Cyber Security Analysit
             <br />
           </div>
         </SkillsList>

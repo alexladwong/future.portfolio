@@ -59,7 +59,7 @@ class NameAndJobTitle extends Component {
   render() {
     return (
       <Container>
-        <Name>Suresh Murali</Name>
+        <Name>Kintu Alex Ladwong</Name>
         <Title>UI/UX DESIGNER & DEVELOPER</Title>
       </Container>
     );

@@ -9,8 +9,8 @@ top:0;
 left:0;
 display: flex;
 flex-flow: column nowrap;
-/* border: 1px dashed black; */
-height:100vh;
+border: 1px dashed black;
+height:90vh;
 width: 100%;
 `;
 

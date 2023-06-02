@@ -8,7 +8,7 @@ const Container = styled.div`
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    height:100vh;
+    height:90vh;
     width:100%;
     background-color: white;
     /* border: 1px solid blue; */
@@ -18,9 +18,9 @@ class NameAndJobTitle extends Component {
   render() {
     return (
       <Container>
-        <NameReveal text="Suresh Murali" fontFam="Valencia" timeDelay={500} />
+        <NameReveal text="Kintu Alex Ladwong" fontFam="Valencia" timeDelay={500} />
         <br />
-        <TitleReveal text="UI/UX Designer & Developer" fontFam="AvenirRoman" timeDelay={1300} />
+        <TitleReveal text="UI/UX Designer | Web Dev. | Cyber Security | Networking" fontFam="AvenirRoman" timeDelay={1200} />
       </Container>
     );
   }

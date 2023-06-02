@@ -31,21 +31,21 @@ class Work extends Component {
       },
       {
         number: '01',
-        projectName: 'FR Design system',
+        projectName: 'Web Projects & Designs',
         projectDesc: 'Multi brand e-commerce design system for websites and native mobile applications.',
         projectType: 'DESIGN SYSTEM',
         roles: ['Design system lead', 'Technical PDM'],
       },
       {
         number: '02',
-        projectName: 'LASHIC',
+        projectName: 'Mobile',
         projectDesc: "Mobile app and websites for senior citizen facility's caregivers, service managers and admins.",
         projectType: 'APP SUITE',
         roles: ['Design lead'],
       },
       {
         number: '03',
-        projectName: 'Eyep',
+        projectName: 'Networking',
         projectDesc: 'Single purpose website to show your IP address and location.',
         projectType: 'WEB APP',
         roles: ['UI Designer', 'Front-end Developer'],
@@ -66,7 +66,7 @@ class Work extends Component {
       },
       {
         number: '06',
-        projectName: 'Voistrap',
+        projectName: 'Full Stack Tools',
         projectDesc: 'Web app project to give workplace insights using indoor localization, voice and schedule.',
         projectType: 'iOS APP',
         roles: ['UI Designer', 'Full Stack Developer'],

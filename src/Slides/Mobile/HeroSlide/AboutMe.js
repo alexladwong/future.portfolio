@@ -4,9 +4,9 @@ import styled from 'styled-components';
 import device from '../../../Assets/Responsive/breakpoints';
 
 const Container = styled.section`
-    height: 50vh;/* Since pageSplitTime is 1.4 */
+    height: 40vh;/* Since pageSplitTime is 1.4 */
     width:100%;
-    /* border: 1px solid blue; */
+    border: 1px solid blue; 
     display: flex;
     flex-flow: row nowrap;
     justify-content: center;
@@ -45,7 +45,7 @@ class AboutMe extends Component {
       <Container>
         <AboutMeDescription>
           Crafting user friendly and aesthetic UI designs
-          is not just my profession, it's my passion.
+          is not just my profession, it's my passion. Let do this...
         </AboutMeDescription>
       </Container>
     );

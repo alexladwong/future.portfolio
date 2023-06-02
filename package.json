@@ -1,7 +1,7 @@
 {
   "name": "my_portfolio",
   "version": "1.0.0",
-  "description": "Suresh Murali's Portfolio",
+  "description": "Kintu Alex Ladwong's Portfolio",
   "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sureshmurali/My-Portfolio.git"
+    "url": "https://github.com/alexladwong/loancalculator"
   },
   "author": "Suresh Murali",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sureshmurali/My-Portfolio/issues"
+    "url": "https://github.com/alexladwong/loancalculator"
   },
-  "homepage": "https://github.com/sureshmurali/My-Portfolio#readme",
+  "homepage": "https://alexladwong.github.io/portfolio/",
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
